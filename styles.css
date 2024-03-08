@@ -15,7 +15,7 @@ body{background-color:hsl(30, 54%, 90%) ;}
 
 .egg{
  max-width:630px;
-   background: url(../recipe-page-main/assets/images/image-omelette.jpeg);
+   background: url(./recipe-page-main/assets/images/image-omelette.jpeg);
     height:320px;
     background-position: center;
     background-size: cover;
