@@ -1,0 +1,140 @@
+*{box-sizing:border-box;}
+
+body{background-color:hsl(30, 54%, 90%) ;}
+
+.container{
+    max-width:750px;
+    
+    margin:auto;
+    
+    padding-top: 30px;
+    border-radius:15px;
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 150px;
+}
+
+.egg{
+ max-width:630px;
+   background: url(../recipe-page-main/assets/images/image-omelette.jpeg);
+    height:320px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    margin:auto;
+    border-radius:15px;
+}
+.section{margin:auto;
+max-width:630px;
+}
+
+.section2{margin:auto;
+    max-width:630px;
+    padding-top: 20px;
+   
+background-color:  hsl(330, 100%, 98%);
+height:180px;
+padding-left: 20px;
+border-radius:15px;}
+
+.section3{margin:auto;
+    max-width:630px;
+  
+    padding-bottom: 50px;
+    
+justify-content: space-between;}
+
+    .section3 span{
+        font-family: 'Outfit';
+        
+    }
+    
+
+.unordered{
+    text-align:left;
+}
+
+ul{
+    text-align:left;
+    font-family:'Outfit';
+    color: hsl(30, 10%, 34%);
+}
+
+
+.ordered{
+    text-align:left;
+    color:hsl(14, 45%, 36%);
+    font-weight:700;
+    font-family:'Outfit';
+}
+
+.ordered>p{color:hsl(30, 10%, 34%);
+
+}
+
+.title{font-family: 'Young serif',sans-serif;
+    color:hsl(14, 45%, 36%);
+    font-weight:400;
+
+}
+
+p{
+    font-family:'Outfit';
+    color: hsl(30, 10%, 34%)
+}
+
+.dark{
+    color:  hsl(24, 5%, 18%);
+    font-weight: 700;
+   
+}
+.header{
+    font-weight: 400;
+    font-size:40px;
+    font-family: 'Young serif';
+    color:hsl(24, 5%, 18%);
+    
+}
+
+.p2{
+    font-family: 'Outfit';
+    color: hsl(332, 51%, 32%)
+}
+
+.rule{
+    border-top: hsl(30, 18%, 87%) solid 1px;
+    max-width:630px;
+}
+
+
+
+.sauce{
+    display:flex;
+   
+    justify-content:space-between;
+    max-width: 350px;
+    margin-left: 30px;
+}
+
+.sauce1{
+    display:flex;
+   
+    justify-content:space-between;
+    max-width: 320px;
+    margin-left: 30px;
+}
+
+.sauce2{
+    display:flex;
+   
+    justify-content:space-between;
+    max-width: 329px;
+    margin-left: 30px;
+}
+
+
+.purp{
+    color:hsl(332, 51%, 32%);
+    font-weight:700;
+
+}
